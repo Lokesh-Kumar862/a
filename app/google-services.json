@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "722077722434",
+    "firebase_url": "https://favorable-iris-339320-default-rtdb.firebaseio.com",
+    "project_id": "favorable-iris-339320",
+    "storage_bucket": "favorable-iris-339320.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:722077722434:android:5be361267bc62f267e0adb",
+        "android_client_info": {
+          "package_name": "com.hrdagr.hungerproblem"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "722077722434-g2v1a4boj74jeiltv99eqddge668ag73.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA7xzSwFFXkNt-v4xo7UnGvC0AKbFVd7sE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "722077722434-g2v1a4boj74jeiltv99eqddge668ag73.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:722077722434:android:86870ceee726aea47e0adb",
+        "android_client_info": {
+          "package_name": "com.hrdagr.myapplication12"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "722077722434-g2v1a4boj74jeiltv99eqddge668ag73.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA7xzSwFFXkNt-v4xo7UnGvC0AKbFVd7sE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "722077722434-g2v1a4boj74jeiltv99eqddge668ag73.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

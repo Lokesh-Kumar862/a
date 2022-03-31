@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Hunger Problem</string>
+    <string name="latitude" />
+    <string name="previous" />
+    <string name="longitute" />
+    <string name="title_activity_maps">MapsActivity</string>
+    <string name="title_activity_maps2">MapsActivity2</string>
+</resources>
